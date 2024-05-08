@@ -1,2 +1,2 @@
-<h1>Propriedades customizadas<\h1> 
+<h1>Propriedades customizadas</h1>
 Implementação de variáveis no css.
