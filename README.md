@@ -1,2 +1,2 @@
-<h1>Propriedades customizadas</h1>
-Implementação de variáveis no css.
+#Estudo
+Propriedades customizadas na implementação de variáveis no css.
